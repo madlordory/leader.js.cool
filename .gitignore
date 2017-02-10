@@ -1,0 +1,6 @@
+_book/
+_private/
+node_modules/
+
+.DS_Store
+*.log
